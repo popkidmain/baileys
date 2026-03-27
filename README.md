@@ -1,4 +1,4 @@
-# 🚀 popkid-baileys (v1.0.1)
+# 🚀 popkid-baileys (v1.0.0)
 
 A high-performance, lightweight WebSockets library for interacting with the WhatsApp Web API. This version is a specialized fork by **Popkid** optimized for **Channel (Newsletter) Management** and **Community Automation**.
 
